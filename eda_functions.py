@@ -2,9 +2,9 @@ import pandas as pd
 import numpy as np
 import geocoder
 from datetime import datetime
-
 import matplotlib.pyplot as plt
 import seaborn as sns
+
 
 def get_and_clean_the_data(path):
 

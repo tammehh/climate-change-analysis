@@ -4,7 +4,7 @@ geocoder
 datetime
 matplotlib
 seaborn
-re
+regex
 nltk
 ssl
 os

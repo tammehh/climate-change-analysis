@@ -1,0 +1,10 @@
+pandas
+numpy
+geocoder
+datetime
+matplotlib
+seaborn
+re
+nltk
+ssl
+os

@@ -1,9 +1,0 @@
-pandas
-numpy
-geocoder
-datetime
-matplotlib
-seaborn
-regex
-nltk
-os
